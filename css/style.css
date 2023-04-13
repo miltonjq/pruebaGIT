@@ -1,0 +1,20 @@
+.relleno1{
+	background-color: gray;
+	height: 200px;
+}
+.relleno2{
+	background-color: aquamarine;
+	height: 150px;
+}
+.relleno3{
+	height: 50px;
+	text-align: center;
+	background-color: olivedrab;
+}
+.relleno4{
+	height: 50px;
+	text-align: center;
+	background-color: orangered;
+}
+
+
